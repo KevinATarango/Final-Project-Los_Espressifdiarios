@@ -19,6 +19,10 @@
 #include "lwip/err.h"
 #include "lwip/sys.h"
 
+
+//Test declaration for branch porpuses
+int testsito;
+
 /* The examples use WiFi configuration that you can set via project configuration menu
 
    If you'd rather not, just change the below entries to strings with
