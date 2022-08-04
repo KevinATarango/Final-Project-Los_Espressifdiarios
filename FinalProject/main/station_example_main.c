@@ -22,7 +22,7 @@
 
 //Test declaration for branch porpuses
 int testsito;
-
+int testsito1;
 /* The examples use WiFi configuration that you can set via project configuration menu
 
    If you'd rather not, just change the below entries to strings with
